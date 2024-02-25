@@ -1,0 +1,3 @@
+import waheed
+
+waheed.welcome()
